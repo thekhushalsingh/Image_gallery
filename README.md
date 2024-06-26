@@ -1,4 +1,4 @@
-# CodeAlpha_Image_gallery
+# Image_gallery
 An image gallery website allows you to showcase visual content in a stunning and organized manner. Whether you're a photographer, artist, or simply want to share a collection of travel photos, this platform brings your images to life.
 
 ## Design Essentials:
